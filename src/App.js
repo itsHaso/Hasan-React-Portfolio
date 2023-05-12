@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter basename='/hasan-react-portfolio'>
+    <BrowserRouter basename='/Hasan-React-Portfolio'>
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
